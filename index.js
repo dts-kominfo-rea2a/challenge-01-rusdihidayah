@@ -8,7 +8,7 @@ email: string
 favoriteColor: Array
 isHavePet: String
 education: Array
-favoriteRestaurant: Array
+favoriteRestaurant: Set
 */
 
 const firstUserFavResto = ['Bento', 'Sushi', 'Pancake', 'Eggy', 'Tempura', 'Bento', 'Eggy', 'Padang', 'Tteok', 'Sushi', 'Sushi'];
